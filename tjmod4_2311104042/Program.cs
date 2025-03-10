@@ -39,7 +39,7 @@ class KodeBuah
 
 class Program
 {
-    static void Main(string[] args)
+    static void MainA(string[] args)
     {
         KodeBuah kodeBuah = new KodeBuah();
         Console.WriteLine("Masukkan nama buah:");
